@@ -1,0 +1,14 @@
+blocks:
+  COAL_ORE:
+    cooldowns: 5
+    money: 1
+  IRON_ORE:
+    cooldowns: 10
+    money: 5
+  GOLD_ORE:
+    cooldowns: 15
+    money: 10
+    
+messages:
+  no-break: "You don't have permission for break here!"
+  break: "&aAdd money {money} for your balance"

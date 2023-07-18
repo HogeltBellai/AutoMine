@@ -1,0 +1,12 @@
+name: AutoMine
+author: HogeltBellai
+version: 1.0A
+
+depend:
+  - Vault
+  - WorldGuard
+
+main: ru.hogeltbellai.automine.AutoMineMain
+
+commands:
+  automine:
